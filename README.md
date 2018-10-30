@@ -9,5 +9,5 @@ After that the program outputs the solution of sudoku or notifies user that ther
 This program can help to solve any Sudoku.
 Also it offers a number of features to help you improve your Sudoku solving skills and practice solving strategies.
 
-Preview:
+Check the preview:
 http://htmlpreview.github.io/?https://github.com/valsid/Sudoku/blob/master/index.html
